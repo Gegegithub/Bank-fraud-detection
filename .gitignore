@@ -1,0 +1,85 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Data files
+*.csv
+*.parquet
+*.json
+*.pkl
+*.h5
+*.hdf5
+
+# Model files
+*.joblib
+*.pickle
+*.model
+*.h5
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Docker
+docker-compose.override.yml
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Grafana
+grafana_data/
+
+# Specific files to exclude
+01_ml_offline/notebooks/1.0-exploration-et-training.ipynb
+01_ml_offline/scripts/export_test_set.py
+
+# Keep directory structure but ignore data
+01_ml_offline/data/raw/
+01_ml_offline/data/processed/
+01_ml_offline/data/test/
+01_ml_offline/models/
+
+# Keep only README in data folders
+!01_ml_offline/data/raw/.gitkeep
+!01_ml_offline/data/processed/.gitkeep
+!01_ml_offline/data/test/.gitkeep
+!01_ml_offline/models/.gitkeep

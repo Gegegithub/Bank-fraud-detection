@@ -1,6 +1,7 @@
 
 ## Aperçu
 <img width="1893" height="778" alt="Image" src="https://github.com/user-attachments/assets/ed7faa54-e071-4f19-9dea-82ddae565fb4" />
+
 ##  Résumé
 Système complet de détection de fraude bancaire capable de traiter des milliers de transactions par seconde.
 Combine le **Machine Learning (XGBoost)** pour la précision et une architecture temps réel avec  **(Kafka)** 

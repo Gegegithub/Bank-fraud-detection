@@ -1,5 +1,6 @@
 
 ## Aperçu
+<img width="2816" height="1504" alt="Image" src="https://github.com/user-attachments/assets/cd7d3450-0ffb-43dd-ba85-1cbbfe7a8e0b" />
 <img width="1893" height="778" alt="Image" src="https://github.com/user-attachments/assets/ed7faa54-e071-4f19-9dea-82ddae565fb4" />
 
 ##  Résumé
